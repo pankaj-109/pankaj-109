@@ -13,7 +13,7 @@
 - 🧠 I’m learning tools like **DeepSeek, RunwayML, Google Colab**
 - 💻 Skilled in **Python (Basic)**, **C++**, **HTML/CSS**
 - 🔐 Interested in **Data Science**, **Cybersecurity**, and **AI-based tools**
-- 🎯 Vision: Build my own AI agent (like J.A.R.V.I.S.)
+- 🎯 Vision: Build my own AI agent (P.A.N.K.U.)
 - 📫 Reach me: **pankajofficial109@gmail.com**
 
 ---
