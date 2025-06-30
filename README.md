@@ -1,15 +1,13 @@
-<p align="center"
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">🚀 Data Science | 🛠️ AI Tools Explorer | 🛡️ Cybersecurity Enthusiast</h3>
 
-Booting... P.A.N.K.U.
-→ Personalized Artificial Neural Knowledge Unit
-→ Data Scientist Mode Activated...
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting...+P.A.N.K.U.;Personalized+Artificial+Neural+Knowledge+Unit;Data+Scientist+Mode+Activated..." />
+</p>
 
 ---
 
@@ -77,8 +75,16 @@ Future goal: **Build my own intelligent assistant** 🤖
 
 ---
 
+### 📂 My Projects on Google Colab
+
+<p align="center">
+  <a href="https://colab.research.google.com/drive/1EJB6ZcL9G3RgOTwy4eCU1VrMavcvXnjp?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project%20in%20Colab-%23007ACC?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pankaj-109&theme=react-dark" alt="GitHub activity graph"/>
 </p>
-
-[🧠 Open in Google Colab](https://colab.research.google.com/drive/https://colab.research.google.com/drive/1EJB6ZcL9G3RgOTwy4eCU1VrMavcvXnjp?usp=sharing)
