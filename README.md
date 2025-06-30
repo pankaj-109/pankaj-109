@@ -2,19 +2,20 @@
 <h3 align="center">🚀 Data Science | AI Tools Explorer | Aspiring Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <!-- 3D Animation Banner -->
+  <img src="https://raw.githubusercontent.com/rohitgangwar1/rohitgangwar1/main/images/header.gif" width="100%" alt="3D animated header">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 📚 I’m currently pursuing **Data Science Internship (Data Curation)** at **NIELIT**
-- 🧠 I’m learning tools like **DeepSeek, RunwayML, Google Colab**
-- 💻 Skilled in **Python (Basic)**, **C++**, **HTML/CSS**
-- 🔐 Interested in **Data Science**, **Cybersecurity**, and **AI-based tools**
-- 🎯 Vision: Build my own AI agent (P.A.N.K.U.)
-- 📫 Reach me: **pankajofficial109@gmail.com**
+- 📚 Currently interning at **NIELIT**, learning **Data Curation**
+- 🔍 Exploring **DeepSeek, RunwayML, Google Colab**
+- 💡 Basic knowledge of **Python**, **C++**, **HTML/CSS**
+- 🔐 Interests: **Data Science**, **AI Tools**, **Cybersecurity**
+- 🎯 Dream Project: **Personal AI Assistant (P.A.N.K.U.)**
+- 📫 Mail me: **omyadavboy@gmail.com**
 
 ---
 
@@ -48,26 +49,19 @@
   <a href="https://www.linkedin.com/in/pankaj-kumar-80b2b331b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/dark_reality_109/" target="_blank">
+  <a href="https://www.instagram.com/pankajj__109/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📌 Current Focus Areas
+### 📌 What I'm Doing
 
-- 🔍 **Internship**: Learning Data Curation @NIELIT
-- 🤖 Exploring AI Tools: DeepSeek, RunwayML, Google Colab
-- 📊 Projects: Student Performance Analyzer, Local Resource Finder
-- 🛡️ Cybersecurity: Self-paced exploration alongside DS
-
----
-
-### ☕ Support
-
-If you like my work, show support by dropping a kind word 😊  
-**UPI ID:** `pankaj109@upi` (Coming Soon)
+- 💼 Internship: **NIELIT - Data Curation**
+- 🤖 Playing with: **DeepSeek, RunwayML, Colab**
+- 📊 Projects: **Student Analyzer**, **Local Resource Finder**
+- 🛡️ Learning about **Cybersecurity** tools and threats
 
 ---
 
