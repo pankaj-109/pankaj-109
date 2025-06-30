@@ -14,4 +14,4 @@
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj109&show_icons=true&theme=dark)
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/pankaj-kumar-80b2b331b/)
+![LinkedIn](https://www.linkedin.com/in/pankaj-kumar-80b2b331b/)
