@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
-<h3 align="center">🚀 Data Science | AI Tools Explorer | Aspiring Cybersecurity Enthusiast</h3>
-
 <p align="center">
-  <!-- 3D Animation Banner -->
-  <img src="https://raw.githubusercontent.com/rohitgangwar1/rohitgangwar1/main/images/header.gif" width="100%" alt="3D animated header">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
+<h3 align="center">🚀 Data Science | 🛠️ AI Tools Explorer | 🛡️ Cybersecurity Enthusiast</h3>
+
 
 ---
 
