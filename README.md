@@ -75,3 +75,5 @@ Future goal: **Build my own intelligent assistant** 🤖
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pankaj-109&theme=react-dark" alt="GitHub activity graph"/>
 </p>
+
+[🧠 Open in Google Colab](https://colab.research.google.com/drive/https://colab.research.google.com/drive/1EJB6ZcL9G3RgOTwy4eCU1VrMavcvXnjp?usp=sharing)
