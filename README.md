@@ -1,26 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
+<h3 align="center">A passionate Data Science student and Web Developer from India</h3>
 
-<!--<!DOCTYPE html>
-<html>
-<head>
-  <title>Welcome to Pankaj's Site</title>
-</head>
-<body>
-  <h1>Hello, I’m Pankaj 👋</h1>
-  <p>Welcome to my personal website!</p>
-</body>
-</html>
+- 🌱 I’m currently learning **Machine Learning, Python, React**
+- 👯 I’m looking to collaborate on **AI Projects**
+- 📫 How to reach me: [YourEmail]@gmail.com
+- ⚡ Fun fact: I love solving real world problems with code
 
-**pankaj-109/pankaj-109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Languages and Tools:
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats:
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj109&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/...)
