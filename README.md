@@ -5,6 +5,11 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">🚀 Data Science | 🛠️ AI Tools Explorer | 🛡️ Cybersecurity Enthusiast</h3>
 
+Booting... P.A.N.K.U.
+→ Personalized Artificial Neural Knowledge Unit
+→ Data Scientist Mode Activated...
+
+
 
 ---
 
